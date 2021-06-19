@@ -1,0 +1,31 @@
+body{
+	background-image: url(risma.jpg);
+	background-repeat: no-repeat;
+	background-size: 500px
+}
+ol li a {
+	color: orange; 
+}
+
+.coba:link{
+	color: green;
+}
+
+
+.coba:active{
+	font-style: italic;
+
+}
+.coba:visited{
+	color: red;
+}
+h1{
+	font: normal normal bold 40px/10px verdana,arial, sans-serif;	
+	text-align: center;
+	color: blue;
+	text-transform: capitalize;
+}
+p{
+	text-align:justify;
+	text-indent: 35px;
+
